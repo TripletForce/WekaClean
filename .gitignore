@@ -1,5 +1,5 @@
 # Ignore the source folder
-/source/
+source/
 
 # Ignore the data folder
-/data/
+data/
