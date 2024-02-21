@@ -3,5 +3,3 @@ source/
 
 # Ignore the data folder
 output/
-
-.csv
