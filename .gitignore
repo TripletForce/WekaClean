@@ -1,0 +1,5 @@
+# Ignore the source folder
+/source/
+
+# Ignore the data folder
+/data/
