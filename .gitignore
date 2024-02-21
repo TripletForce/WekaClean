@@ -2,6 +2,6 @@
 source/
 
 # Ignore the data folder
-data/
+output/
 
 .csv
